@@ -2,7 +2,7 @@ This is a project to build a Scanner, Parser and a Code Generator on the given G
 
  *  Grammar	:
  *
- *  <program> 		--> 	  <data decls> <func list> 
+ *  <program> --> <data decls> <func list> 
  *
  *  <func list> 	--> 	  empty 
  *  				| <func> <func list> 
